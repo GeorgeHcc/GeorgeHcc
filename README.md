@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 <!-- <picture> -->
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark),(bg-color:red,orange,blue,purple)"
+  media="(prefers-color-scheme: dark), (layout:compact)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&theme=radical"
-  
+  media="(prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true" />
 <!-- </picture> -->
