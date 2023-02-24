@@ -18,10 +18,10 @@ Here are some ideas to get you started:
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <div style="display:flex">
- <div aligin="center">
+<!--  <div aligin="center"> -->
    <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a"/>          
 </div>
-<div align="center">
+<!-- <div align="center"> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
  </div>
  </div>
