@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-
-
+<!-- github new media
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical"
@@ -34,11 +31,15 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true" />
 </picture>
+-->
 
+<div>
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--  top language
 &layout=compact
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 <!-- 访客-->
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc.GeorgeHcc&left_color=green&right_color=blue)
