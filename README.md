@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div>
+<div style="display:inline-block">
  <div aligin="center">
    <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a"/>          
 </div>
