@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!-- github new media
@@ -33,13 +32,24 @@ Here are some ideas to get you started:
 </picture>
 -->
 
-<div>
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!--  top language
-&layout=compact
--->
+<div style="float:left">
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark),(bg-color:red,orange,blue,purple)"
+/>
+<source
+  srcset="[https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&theme=radical)"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true" />
+</picture>
+</div>
+  
+  <!-- top language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ -->
 <!-- 访客-->
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc.GeorgeHcc&left_color=green&right_color=blue)
