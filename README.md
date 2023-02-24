@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&theme=radical"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&theme=radical&line_height=30"
   media="(prefers-color-scheme: dark)"
 />
 <source
