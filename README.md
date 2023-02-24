@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </picture>
 -->
 
-<div style="float:left">
+<div style="display:inline-block">
 
 <picture>
 <source 
