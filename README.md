@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div style="float:left">
 
-<!-- <picture> -->
+<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark), (layout:compact)"
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true" />
-<!-- </picture> -->
+</picture>
 </div>
   
   <!-- top language
