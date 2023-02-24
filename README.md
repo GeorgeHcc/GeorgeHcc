@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -->
 <div  align="center">
 <!--  <div aligin="center"> -->
-   <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a"/>          
+   <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&height=137px&hide_title=true"/>          
 <!-- </div> -->
 <!-- <div align="center"> -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true"/>
 <!--  </div> -->
  </div>
 
