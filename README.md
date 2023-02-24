@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&bg-color=#CC6633,#FF9900"
+  srcset="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&bg_color=#CC6633,#FF9900"
   media="(prefers-color-scheme: dark)"
 />
 <source
