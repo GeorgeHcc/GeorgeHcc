@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </picture>
 -->
 
-<div style="display:inline-block">
+<!-- <div style="display:inline-block"> -->
 
 <picture>
 <source 
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true" />
 </picture>
-</div>
-  
+<!-- </div>
+   -->
   <!-- top language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  -->
