@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm GeorgeH,a student from china 
 
 
 **GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
