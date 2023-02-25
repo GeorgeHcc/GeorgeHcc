@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 	 <img src="https://img.shields.io/badge/-SpringBoot-00CC00?style=plastic&logo=springboot&logoColor=white"/>
 	 <img scr="https://img.shields.io/badge/-Less-blue?style=plastic&logo=less&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-webpack-3399CC?style=plastic&logo=webpack&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/-React-3399CC?style=plastic&logo=react&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/-vite-3399CC?style=plastic&logo=vite&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/-antD-3399CC?style=plastic&logo=antdesign&logoColor=white"/>
+	 <img src="https://img.shields.io/badge/-React-3399CC?style=plastic&fontColor=white&logo=react&logoColor=61dafb"/>
+	 <img src="https://img.shields.io/badge/-vite-9999FF?style=plastic&logo=vite&logoColor=white"/>
+	 <img src="https://img.shields.io/badge/-antd-0033CC?style=plastic&logo=antdesign&logoColor=CCFFFF"/>
 	 <img src="https://img.shields.io/badge/-webpack-3399CC?style=plastic&logo=webpack&logoColor=white"/>
 </span>
 </div>
