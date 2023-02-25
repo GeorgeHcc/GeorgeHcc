@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <div  align="center">
 <!--  <div aligin="center"> -->
    <img  height="130px"
+        style="margin:0,padding:0"
         src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&line_height=20&hide_title=true"/>          
 <!-- </div> -->
 <!-- <div align="center"> -->
