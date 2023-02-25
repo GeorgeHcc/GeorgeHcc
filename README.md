@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-FFCC00?style=plastic&fontColor=white&logo=javascript&logoColor=black" />
 	 <img src="https://img.shields.io/badge/-Vue.js-00CC66?style=plastic&logo=Vue.js&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/-React-00CCCC?style=plastic&fontColor=white&logo=react&logoColor=61dafb"/>
+	 <img src="https://img.shields.io/badge/-React-339999?style=plastic&fontColor=white&logo=react&logoColor=61dafb"/>
 	 <img src="https://img.shields.io/badge/-Nuxt.js-00FF66?style=plastic&logo=Nuxt.js&logoColor=white"/>
 	 <img scr="https://img.shields.io/badge/-Less-blue?style=plastic&logo=less&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-webpack-3399CC?style=plastic&logo=webpack&logoColor=white"/>
