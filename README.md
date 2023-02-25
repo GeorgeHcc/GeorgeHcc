@@ -1,7 +1,16 @@
+
+
+<!--typing -->
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,World!;Welcome+to+my+profile!!&center=true&size=27"> 
+</h1>
+
+
+
 ### Hi there 👋 I'm GeorgeH,a student from china 
 
 
-**GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 <div align="center">
@@ -33,11 +42,6 @@ Here are some ideas to get you started:
  </span>
  </div>
 
-
-<!--typing -->
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,World!;Welcome+to+my+profile!!&center=true&size=27"> 
-</h1>
 
 <div align="center" style="margin-top:50px">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeHcc" />
