@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  </div>
 
 
-<!-- console.log(%22Hello%2C%20World!%22); -->
+<!--typing -->
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=学习是一种信仰!&center=true&size=27"> 
 </h1>
@@ -39,9 +39,17 @@ Here are some ideas to get you started:
 <div align="center" style="margin-top:50px">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeHcc" />
 </div>
+
+<div align="center">
+ <p>My Skills</P>
+ <span >
+	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+</span>
+</div>
 <!-- 访客-->
 <div align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
 </div>
-<!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue)
- -->
+
