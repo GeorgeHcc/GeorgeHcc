@@ -18,12 +18,12 @@ Here are some ideas to get you started:
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <div  align="center">
- <div >
+ <div style="display:inline-block">
    <img  height="130px"
         src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&line_height=20&hide_title=true&hide_border=true"/>          
 </div>
  
-<div >
+<div style="display:inline-block">
  <img  height="130px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true&langs_count=6&hide_border=true"/>
  </div>
