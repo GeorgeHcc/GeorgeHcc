@@ -10,7 +10,7 @@
 ### Hi there 👋 I'm GeorgeH,a student from china 
 
 
-<!-- **GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 
 
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
+
 <div  align="center">
 <!--  your stats -->
  <span>
