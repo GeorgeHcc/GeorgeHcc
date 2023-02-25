@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 <!--  your stats -->
  <span>
    <img  height="130px"
-        src="https://github-readme-stats.vercel.app/api?  username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&line_height=20&hide_title=true&hide_border=true"/>          
+        src="https://github-readme-stats.vercel.app/api?  username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&line_height=20&hide_title=true&hide_border=true"
+        alt="img loading err"/>          
 </span>
 <!--  your top language -->
  <span>
    <img  height="130px"
+        alt="img loading err"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true&langs_count=6&hide_border=true"/>
  </span>
  </div>
