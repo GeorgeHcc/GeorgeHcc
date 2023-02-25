@@ -6,13 +6,12 @@
 </h1>
 
 
-
+# 🙋‍♂️About me
 ### Hi there 👋 I'm GeorgeH,a student from china 
-
-
+<!-- 
 **GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,6 +26,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
+
 
 <div  align="center">
 <!--  your stats -->
@@ -49,6 +49,10 @@ Here are some ideas to get you started:
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeHcc" />
 </div>
 
+
+<div align="center">
+	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 <div align="center">
  <h2>My Skills</h2>
  <span >
