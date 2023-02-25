@@ -28,5 +28,8 @@ Here are some ideas to get you started:
  </div>
 
 <!-- 访客-->
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue)
+<span>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
+</span>
+<!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue)
+ -->
