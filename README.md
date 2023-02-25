@@ -53,6 +53,7 @@ Here are some ideas to get you started: -->
 <div align="center">
 	<img src="https://metrics.lecoq.io/GeorgeHcc?template=classic&config.timezone=Asia%2FShanghai">
 </div>
+
 <div align="center">
  <h2>I'm learning 👨‍💻</h2>
  <span >
@@ -70,12 +71,6 @@ Here are some ideas to get you started: -->
 	 <img src="https://img.shields.io/badge/-SpringBoot-00CC00?style=plastic&logo=springboot&logoColor=white"/>
 </span>
 </div>
-<!--
- <img src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/-three.js-000000?style=plastic&logo=three.js&logoColor=white"/>
-
- 
--->
 
 <div align="center">
  <h2>my flags🏳️‍🌈</h2>
@@ -91,11 +86,11 @@ Here are some ideas to get you started: -->
 	 <img src="https://img.shields.io/badge/-Stack Overflow-white?style=plastic&logo=Stack Overflow&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-npm-CB3837?style=plastic&logo=npm&logoColor=CB3837"/>
 	 <img src="https://img.shields.io/badge/-Rollup.js-3399FF?style=plastic&logo=rollup.js&logoColor=white"/>
+	 <img src="https://img.shields.io/badge/-three.js-000000?style=plastic&logo=three.js&logoColor=white"/>
 </span>
 </div>
 <!-- 访客-->
-<div align="center">
-	
+<div align="center">	
  <img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
 </div>
 
