@@ -65,7 +65,7 @@ Here are some ideas to get you started: -->
 	 <img src="https://img.shields.io/badge/-Nuxt.js-00FF66?style=plastic&logo=Nuxt.js&logoColor=white"/>
 	 <img scr="https://img.shields.io/badge/-Less-blue?style=plastic&logo=less&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-webpack-3399CC?style=plastic&logo=webpack&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/-vite-9999FF?style=plastic&logo=vite&logoColor=white"/>
+	 <img src="https://img.shields.io/badge/-vite-646CFF?style=plastic&logo=vite&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-antd-0033CC?style=plastic&logo=antdesign&logoColor=CCFFFF"/>
 	 <img src="https://img.shields.io/badge/-TypeScript-3399FF?style=plastic&logo=typescript&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-SpringBoot-00CC00?style=plastic&logo=springboot&logoColor=white"/>
@@ -81,7 +81,7 @@ Here are some ideas to get you started: -->
 	 <img src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=GraphQL&logoColor=61dafb"/>
 	 <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/>
-	 <img scr="https://img.shields.io/badge/-Swift-F05138?style=plastic&logo=Swift&logoColor=white"/>
+	 <img scr="https://img.shields.io/badge/-Swift-F58025?style=plastic&logo=Swift&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-esbuild-FFCF00?style=plastic&logo=esbuild&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-Stack Overflow-white?style=plastic&logo=Stack Overflow&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-npm-CB3837?style=plastic&logo=npm&logoColor=CB3837"/>
