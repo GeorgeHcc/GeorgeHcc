@@ -42,6 +42,7 @@ Here are some ideas to get you started:
  </span>
  </div>
 
+![](https://raw.githubusercontent.com/GeorgeHcc/GeorgeHcc/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center" style="margin-top:50px">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeHcc" />
