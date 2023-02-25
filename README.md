@@ -38,8 +38,8 @@ Here are some ideas to get you started:
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeHcc" />
 </div>
 <!-- 访客-->
-<span align="center">
+<div align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
-</span>
+</div>
 <!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue)
  -->
