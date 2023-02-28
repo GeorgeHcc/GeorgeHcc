@@ -8,9 +8,8 @@
 
 # 🙋‍♂️About me
 ### Hi there 👋 I'm GeorgeH,a student from china 
-<!-- 
-**GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- ** GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
@@ -43,7 +42,7 @@ Here are some ideas to get you started: -->
  </span>
  </div>
 
-![](https://raw.githubusercontent.com/GeorgeHcc/GeorgeHcc/main/assets/github-contribution-grid-snake.svg)
+<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 <div align="center" style="margin-top:50px">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeHcc" />
