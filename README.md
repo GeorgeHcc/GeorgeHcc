@@ -38,15 +38,15 @@ Here are some ideas to get you started: -->
  </span>
  </div>
 
-<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
 
 <div align="center" style="margin-top:50px">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeHcc" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
 	<img src="https://metrics.lecoq.io/GeorgeHcc?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+</div> -->
 
 <div align="center">
  <h2>I'm learning 👨‍💻</h2>
