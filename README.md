@@ -121,18 +121,18 @@ Here are some ideas to get you started: -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/icon.png" />
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
 
 <div align="center">
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/Github-Stats-Terminal/github_stats.svg"/><br>
+<!-- <img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/Github-Stats-Terminal/github_stats.svg"/><br> -->
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 </div>
@@ -143,7 +143,7 @@ Here are some ideas to get you started: -->
 </div>
 
 <!-- Wakatime Graph-->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
@@ -151,5 +151,5 @@ Here are some ideas to get you started: -->
   <tr>
     <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/running/assets/github_2023.svg" /></a><br></td>
   </tr>
-</table>
+</table> -->
 </div>
