@@ -67,6 +67,10 @@ Here are some ideas to get you started: -->
 	<span> <img src="https://img.shields.io/badge/-antd-0033CC?style=plastic&logo=antdesign&logoColor=CCFFFF"/>
 	 <img src="https://img.shields.io/badge/-TypeScript-3399FF?style=plastic&logo=typescript&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-WebRTC-333333?style=plastic&logo=WebRTC&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=Redux&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-Grunt-FAA918?style=plastic&logo=Grunt&logoColor=white"/>
+<!-- 		<img src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=Redux&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=Redux&logoColor=white"/> -->
 	</span>
 </div>
 
