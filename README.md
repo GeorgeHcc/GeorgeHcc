@@ -3,7 +3,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,World!;Welcome+to+my+profile!!&center=true&size=27"> 
 </h1>
 
-
+<div  align="center">
+<!--  your stats -->
+ <span>
+   <img  height="130px"
+     src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&hide_title=true&hide_border=true"
+      alt="img loading err"/>          
+</span>
+<!--  your top language -->
+ <span>
+   <img  height="130px"
+        alt="img loading err"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true&langs_count=6&hide_border=true"/>
+ </span>
+ </div>
 <img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 # 🙋‍♂️About me
 
@@ -20,24 +33,12 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
-<div  align="center">
-<!--  your stats -->
- <span>
-   <img  height="130px"
-     src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&hide_title=true&hide_border=true"
-      alt="img loading err"/>          
-</span>
-<!--  your top language -->
- <span>
-   <img  height="130px"
-        alt="img loading err"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true&langs_count=6&hide_border=true"/>
- </span>
- </div>
+
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
 
