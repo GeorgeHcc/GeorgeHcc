@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,World!;Welcome+to+my+profile!!&center=true&size=27"> 
 </h1>
 
+
+<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 # 🙋‍♂️About me
 
 ### Hi there 👋 I'm GeorgeH,a student from china
@@ -18,7 +20,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
