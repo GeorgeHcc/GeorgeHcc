@@ -17,6 +17,9 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true&langs_count=6&hide_border=true"/>
  </span>
  </div>
+ <div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
 <img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 # 🙋‍♂️About me
 
@@ -34,9 +37,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-<div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
+
 
 
 
