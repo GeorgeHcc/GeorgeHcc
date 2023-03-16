@@ -23,6 +23,7 @@
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </div>
+
 # 🙋‍♂️About me
 
 ### Hi there 👋 I'm GeorgeH,a student from china
@@ -52,7 +53,7 @@ Here are some ideas to get you started: -->
 <!-- <div align="center">
 	<img src="https://metrics.lecoq.io/GeorgeHcc?template=classic&config.timezone=Asia%2FShanghai">
 </div> -->
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <div align="center">
  <h2>I'm learning 👨‍💻</h2>
  <span >
