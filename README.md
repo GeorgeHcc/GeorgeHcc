@@ -55,7 +55,7 @@ Here are some ideas to get you started: -->
 </div> -->
 <div align="center">
 	<h1>My Stack🧑🏻‍💻</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react)](https://skillicons.dev)
+	<img src="https://skillicons.dev/icons?i=js,html,css,vue,react"/>
 </div>
 <div align="center">
  <h1>I'm learning 👨‍💻</h1>
