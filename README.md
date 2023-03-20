@@ -31,8 +31,8 @@
 <!-- ** GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently studying in CQUPT
+- 🌱 I’m currently learning Vue/React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -53,7 +53,8 @@ Here are some ideas to get you started: -->
 <!-- <div align="center">
 	<img src="https://metrics.lecoq.io/GeorgeHcc?template=classic&config.timezone=Asia%2FShanghai">
 </div> -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# My Stack🧑🏻‍💻
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react)](https://skillicons.dev)
 <div align="center">
  <h2>I'm learning 👨‍💻</h2>
  <span >
