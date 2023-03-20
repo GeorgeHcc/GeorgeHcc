@@ -53,10 +53,12 @@ Here are some ideas to get you started: -->
 <!-- <div align="center">
 	<img src="https://metrics.lecoq.io/GeorgeHcc?template=classic&config.timezone=Asia%2FShanghai">
 </div> -->
-# My Stack🧑🏻‍💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react)](https://skillicons.dev)
 <div align="center">
- <h2>I'm learning 👨‍💻</h2>
+	<h1>My Stack🧑🏻‍💻</h1>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react)](https://skillicons.dev)
+</div>
+<div align="center">
+ <h1>I'm learning 👨‍💻</h1>
  <span >
 	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" />
@@ -82,7 +84,7 @@ Here are some ideas to get you started: -->
 </div>
 
 <div align="center">	 
- <h2>my flags🏳️‍🌈</h2>
+ <h1>my flags🏳️‍🌈</h1>
  <span >
 	<img  src="https://img.shields.io/badge/-Preact-673AB8?style=plastic&logo=Preact&logoColor=white" />
 	<img  src="https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter" />
