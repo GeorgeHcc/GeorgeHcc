@@ -5,11 +5,11 @@
 
 <div  align="center">
 <!--  your stats -->
- <span>
+<!--  <span>
    <img  height="130px"
      src="https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&hide_title=true&hide_border=true"
       alt="img loading err"/>          
-</span>
+</span> -->
 <!--  your top language -->
  <span>
    <img  height="130px"
