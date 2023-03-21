@@ -11,11 +11,11 @@
       alt="img loading err"/>          
 </span> -->
 <!--  your top language -->
- <span>
+<!--  <span>
    <img  height="130px"
         alt="img loading err"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true&langs_count=6&hide_border=true"/>
- </span>
+ </span> -->
  </div>
  <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
