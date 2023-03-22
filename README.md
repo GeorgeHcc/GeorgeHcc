@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,World!;Welcome+to+my+profile!!&center=true&size=27"> 
 </h1>
 
-<div  align="center">
+<!-- <div  align="center"> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=transparent)
 <!--  your stats -->
 <!--  <span>
