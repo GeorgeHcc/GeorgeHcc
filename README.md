@@ -2,9 +2,8 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,World!;Welcome+to+my+profile!!&center=true&size=27"> 
 </h1>
-
-<div  align="center">
 # 🙋‍♂️About me
+	
 ### Hi there 👋 I'm GeorgeH,a student from china
 
 <!--  ✨ _special_ ✨  -->
@@ -16,6 +15,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div  align="center">
 <!--  your stats -->
  <span>
    <img  height="130px"
