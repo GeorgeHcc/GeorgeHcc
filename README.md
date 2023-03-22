@@ -4,7 +4,7 @@
 </h1>
 
 <div  align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeHcc&show_icons=true&theme=transparent)
+
 <!--  your stats -->
  <span>
    <img  height="130px"
