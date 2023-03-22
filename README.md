@@ -4,7 +4,18 @@
 </h1>
 
 <div  align="center">
+# 🙋‍♂️About me
+### Hi there 👋 I'm GeorgeH,a student from china
 
+<!--  ✨ _special_ ✨  -->
+- 🔭 I’m currently studying in CQUPT
+- 🌱 I’m currently learning Vue/React
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--  your stats -->
  <span>
    <img  height="130px"
@@ -24,23 +35,6 @@
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </div>
-
-# 🙋‍♂️About me
-
-### Hi there 👋 I'm GeorgeH,a student from china
-
-<!-- ** GeorgeHcc/GeorgeHcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently studying in CQUPT
-- 🌱 I’m currently learning Vue/React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
 
 
 
