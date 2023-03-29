@@ -101,7 +101,7 @@
 		<img src="https://img.shields.io/badge/-Rollup.js-3399FF?style=plastic&logo=rollup.js&logoColor=white"/>
 	 	<img src="https://img.shields.io/badge/-three.js-000000?style=plastic&logo=three.js&logoColor=white"/>
 		<img src="https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=Next.js&logoColor=white"/>
-		<img src="https://img.shields.io/badge/-electron-3399FF?style=plastic&logo=electron&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-electron-47848F?style=plastic&logo=electron&logoColor=white"/>
 	</span>
 </div>
 
