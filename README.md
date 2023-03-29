@@ -73,7 +73,7 @@
 	 <img src="https://img.shields.io/badge/-TypeScript-3399FF?style=plastic&logo=typescript&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-WebRTC-333333?style=plastic&logo=WebRTC&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=Redux&logoColor=white"/>
-		<img src="https://img.shields.io/badge/-Grunt-FAA918?style=plastic&logo=Grunt&logoColor=white"/>
+<!-- 		<img src="https://img.shields.io/badge/-Grunt-FAA918?style=plastic&logo=Grunt&logoColor=white"/> -->
 <!-- 		<img src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=Redux&logoColor=white"/>
 		<img src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=Redux&logoColor=white"/> -->
 	</span>
@@ -101,6 +101,7 @@
 		<img src="https://img.shields.io/badge/-Rollup.js-3399FF?style=plastic&logo=rollup.js&logoColor=white"/>
 	 	<img src="https://img.shields.io/badge/-three.js-000000?style=plastic&logo=three.js&logoColor=white"/>
 		<img src="https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=Next.js&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-electron-3399FF?style=plastic&logo=electron&logoColor=white"/>
 	</span>
 </div>
 
