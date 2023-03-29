@@ -50,7 +50,7 @@
 	<img src="https://metrics.lecoq.io/GeorgeHcc?template=classic&config.timezone=Asia%2FShanghai">
 </div> -->
 <div align="center">
-	<h1>My Stack🧑🏻‍💻</h1>
+	<h1>My Tech Stack🧑🏻‍💻</h1>
 	<img src="https://skillicons.dev/icons?i=js,html,css,vue,react"/>
 </div>
 <div align="center">
