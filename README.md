@@ -19,8 +19,8 @@
 <!-- 访客-->
 
 ## 📧contact me
+
 <div align="center">	
-	
 	<a href="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc@main/assets/blog/wechat.png">
 	     <img  src="https://img.shields.io/badge/-Wechat-lightgray?style=social&logo=wechat&label=微信" />
 	</a>
@@ -31,6 +31,7 @@
 	     <img  src="https://img.shields.io/badge/-QQ-white?style=social&logo=TencentQQ&label=QQ" />
 	</a>
 </div>
+
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
 </div>
