@@ -18,10 +18,8 @@
 - ⚡ Fun fact: ... -->
 <!-- 访客-->
 <div align="center">	
-	
 	<a href="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc@main/assets/blog/wechat.png">
-	     <img  src="https://img.shields.io/badge/-Wechat-07C160?style=plastic&logo=wechat&logoColor=white" />
-	  </a>
+	     <img  src="https://img.shields.io/badge/-Wechat-07C160?style=plastic&logo=wechat&logoColor=white" /></a>
 	<img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
 </div>
 
