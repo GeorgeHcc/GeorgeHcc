@@ -16,6 +16,15 @@
 		<li> 🌱I’m currently learning Vue/React</li>
 		<li>👯 I’m looking to collaborate on ...</li>
 		<li>🤔 I’m looking for help with ...</li>
+		  <li>📫 How to reach me:<a href="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc@main/assets/blog/wechat.png">
+	     <img  src="https://img.shields.io/badge/-Wechat-lightgray?style=social&logo=wechat" />
+	</a>
+	<a href="mailto:georgehuang418@gmail.com">
+	     <img  src="https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=Gmail" />
+	</a>
+	<a href="https://wpa.qq.com/msgrd?v=3&uin=2494610291&site=qq&menu=yes&jumpflag=1">
+	     <img  src="https://img.shields.io/badge/-QQ-white?style=social&logo=TencentQQ" />
+	</a></li>
 	  </ul>
 	</div>
 	<div style="width:300px;height:300px;margin:0;padding:0;">
@@ -35,7 +44,7 @@
 
 
 <!-- 访客-->
-
+<!-- 
 ## 📧contact me
 
 <div align="center">	
@@ -49,7 +58,7 @@
 	     <img  src="https://img.shields.io/badge/-QQ-white?style=social&logo=TencentQQ" />
 	</a>
 </div>
-
+ -->
 
 
 <div  align="center">
