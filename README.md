@@ -1,6 +1,6 @@
 <!--typing -->
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=a+nice+day+starts+with+coding!;Welcome+to+my+profile!!&center=true&size=27"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+nice+day+starts+with+coding!!;Welcome+to+my+profile!!&center=true&size=27"> 
 </h1>
 
 # 🙋‍♂️About me
