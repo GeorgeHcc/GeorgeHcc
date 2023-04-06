@@ -42,7 +42,7 @@
 - ⚡ Fun fact: ... -->
 
  
- ## 📊My Stats
+ ## My Stats
 
 <div  align="center">
 <!--  your stats -->
