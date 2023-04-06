@@ -22,6 +22,7 @@
 		<img src="./assets/images/programmer.gif" height="200px">
 	</div>
 </div>
+<img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
 <!-- - 🔭 I’m currently studying in CQUPT（Software Engineering）
 - 🌱 I’m currently learning Vue/React
 - 👯 I’m looking to collaborate on ...
@@ -49,9 +50,7 @@
 	</a>
 </div>
 
-<div align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
-</div>
+
 
 <div  align="center">
 <!--  your stats -->
