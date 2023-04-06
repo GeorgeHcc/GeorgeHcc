@@ -18,7 +18,7 @@
 		<li>🤔 I’m looking for help with ...</li>
 	</ul>
 	</div>
-	<div style="width:50%;height:inherit;">
+	<div style="width:50%;height:200px;">
 		<img src="./assets/images/programmer.gif" >
 	</div>
 </div>
