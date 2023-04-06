@@ -1,6 +1,6 @@
 <!--typing -->
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,World!;Welcome+to+my+profile!!&center=true&size=27"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!!;A+Nice+Day+Starts+With+Coding!!&center=true&size=27&width=500"> 
 </h1>
 
 # 🙋‍♂️About me
@@ -39,13 +39,13 @@
 
 <div align="center">	
 	<a href="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc@main/assets/blog/wechat.png">
-	     <img  src="https://img.shields.io/badge/-Wechat-lightgray?style=social&logo=wechat&label=微信" />
+	     <img  src="https://img.shields.io/badge/-Wechat-lightgray?style=social&logo=wechat" />
 	</a>
 	<a href="mailto:georgehuang418@gmail.com">
-	     <img  src="https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=Gmail&label=邮箱" />
+	     <img  src="https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=Gmail" />
 	</a>
 	<a href="https://wpa.qq.com/msgrd?v=3&uin=2494610291&site=qq&menu=yes&jumpflag=1">
-	     <img  src="https://img.shields.io/badge/-QQ-white?style=social&logo=TencentQQ&label=QQ" />
+	     <img  src="https://img.shields.io/badge/-QQ-white?style=social&logo=TencentQQ" />
 	</a>
 </div>
 
