@@ -8,7 +8,7 @@
 ### Hi there 👋 I'm GeorgeH,a student from china
 
 <!--  ✨ _special_ ✨  -->
-- 🔭 I’m currently studying in CQUPT
+- 🔭 I’m currently studying in CQUPT（Software Engineering）
 - 🌱 I’m currently learning Vue/React
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
