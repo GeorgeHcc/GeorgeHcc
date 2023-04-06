@@ -9,7 +9,7 @@
 ### Hi there 👋 I'm GeorgeH,a student from china
 
 <!--  ✨ _special_ ✨  -->
-<div style="width:100%;height:300px;display:flex;justify-content:center;align-items:center;float:left">
+<div style="width:100%;height:300px;align:center">
 	<div style="width:50%;height:300px;display:inline-block">
 	<ul style="padding:0;list-style-type:none">
 		<li>🔭 I’m currently studying in CQUPT（Software Engineering）</li>
