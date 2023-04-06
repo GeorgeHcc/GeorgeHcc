@@ -9,14 +9,14 @@
 ### Hi there 👋 I'm GeorgeH,a student from china
 
 <!--  ✨ _special_ ✨  -->
-<div style="width:100%;height:300px;align:center;display:inline-block">
+<div style="width:100%;height:300px;display:flex;justify-contnt:center">
 	<div style="width:500px;height:300px;">
-	<ul style="padding:0;list-style-type:none">
+	  <ul style="padding:0;list-style-type:none">
 		<li>🔭 I’m currently studying in CQUPT（Software Engineering）</li>
 		<li> 🌱I’m currently learning Vue/React</li>
 		<li>👯 I’m looking to collaborate on ...</li>
 		<li>🤔 I’m looking for help with ...</li>
-	</ul>
+	  </ul>
 	</div>
 	<div style="width:300px;height:300px;margin:0;padding:0;">
 		<img src="./assets/images/programmer.gif" height="200px">
