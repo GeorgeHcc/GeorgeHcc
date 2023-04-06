@@ -18,8 +18,8 @@
 		<li>🤔 I’m looking for help with ...</li>
 	</ul>
 	</div>
-	<div style="width:50%;height:200px;">
-		<img src="./assets/images/programmer.gif" >
+	<div style="width:50%;height:200px;margin:0;padding:0">
+		<img src="./assets/images/programmer.gif" height="200px">
 	</div>
 </div>
 <!-- - 🔭 I’m currently studying in CQUPT（Software Engineering）
