@@ -18,14 +18,18 @@
 - ⚡ Fun fact: ... -->
 <!-- 访客-->
 
-## cantact me
+## 📧contact me
 <div align="center">	
 	<a href="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc@main/assets/blog/wechat.png">
-	     <img  src="https://img.shields.io/badge/-Wechat-07C160?style=plastic&logo=wechat&logoColor=white" /></a>
+	     <img  src="https://img.shields.io/badge/-Wechat-lightgray?style=social&logo=wechat&label=微信" /></a>
 	<a href="mailto:georgehuang418@gmail.com">
-	     <img  src="https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white" /></a>
-	<img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
+	     <img  src="https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=Gmail&label=邮箱" /></a>
+	<a href="https://wpa.qq.com/msgrd?v=3&uin=2494610291&site=qq&menu=yes&jumpflag=1">
+	     <img  src="https://img.shields.io/badge/-QQ-white?style=social&logo=TencentQQ&label=QQ" /></a>
 	
+</div>
+<div align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
 </div>
 
 <div  align="center">
