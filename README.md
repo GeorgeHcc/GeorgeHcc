@@ -10,7 +10,7 @@
 
 <!--  ✨ _special_ ✨  -->
 <div style="width:100%;height:auto;display:flex;justify-content:center;align-items:center;float:left">
-	<div style="width:50%;height:300px;">
+	<div style="width:50%;height:300px;display:inline-block">
 	<ul style="padding:0;list-style-type:none">
 		<li>🔭 I’m currently studying in CQUPT（Software Engineering）</li>
 		<li> 🌱I’m currently learning Vue/React</li>
@@ -18,7 +18,7 @@
 		<li>🤔 I’m looking for help with ...</li>
 	</ul>
 	</div>
-	<div style="width:50%;height:200px;margin:0;padding:0">
+	<div style="width:50%;height:200px;margin:0;padding:0;display:inline-block">
 		<img src="./assets/images/programmer.gif" height="200px">
 	</div>
 </div>
