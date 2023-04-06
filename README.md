@@ -5,17 +5,34 @@
 
 # 🙋‍♂️About me
 	
+
 ### Hi there 👋 I'm GeorgeH,a student from china
 
 <!--  ✨ _special_ ✨  -->
-- 🔭 I’m currently studying in CQUPT（Software Engineering）
+<div style="width:100%;height:auto;display:flex">
+	<div style="width:50%;height:300px;">
+	<ul style="padding:0;list-style-type:none">
+		<li>🔭 I’m currently studying in CQUPT（Software Engineering）</li>
+		<li> 🌱I’m currently learning Vue/React</li>
+		<li>👯 I’m looking to collaborate on ...</li>
+		<li>🤔 I’m looking for help with ...</li>
+	</ul>
+	</div>
+	<div style="width:50%;height:inherit;">
+		<img src="./assets/images/programmer.gif" >
+	</div>
+</div>
+<!-- - 🔭 I’m currently studying in CQUPT（Software Engineering）
 - 🌱 I’m currently learning Vue/React
-<!-- - 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+
+
 <!-- 访客-->
 
 ## 📧contact me
