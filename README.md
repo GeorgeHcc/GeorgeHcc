@@ -14,8 +14,8 @@
 	  <ul style="list-style-type:none">
 		<li>🔭 I’m currently studying in CQUPT（Software Engineering）</li>
 		<li> 🌱I’m currently learning Vue/React</li>
-		<li>👯 I’m looking to collaborate on ...</li>
-		<li>🤔 I’m looking for trainee for front-end</li>
+		<li>👯 I’m looking to collaborate on some interesting open source projects</li>
+		<li>🤔 I’m looking for a front-end internship</li>
 		  <li>📫 How to reach me:<a href="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc@main/assets/blog/wechat.png">
 	     <img  src="https://img.shields.io/badge/-Wechat-lightgray?style=social&logo=wechat" />
 	</a>
