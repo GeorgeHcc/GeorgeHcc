@@ -79,7 +79,7 @@
 </div> -->
 <div align="center">
 	<h1>My Tech Stack🧑🏻‍💻</h1>
-	<img src="https://skillicons.dev/icons?i=js,ts,go,vue,react,nuxt"/>
+	<img src="https://skillicons.dev/icons?i=js,ts,go,vue,react,nuxt,wasm"/>
 </div>
 <div align="center">
  <h1>I'm learning 👨‍💻</h1>
