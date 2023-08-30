@@ -118,8 +118,8 @@
 	 <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/>
 	 <img scr="https://img.shields.io/badge/-Swift-F58025?style=plastic&logo=Swift&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/-esbuild-FFCF00?style=plastic&logo=esbuild&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/-Stack Overflow-white?style=plastic&logo=Stack Overflow&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/-npm-CB3837?style=plastic&logo=npm&logoColor=CB3837"/>
+<!-- 	 <img src="https://img.shields.io/badge/-Stack Overflow-white?style=plastic&logo=Stack Overflow&logoColor=white"/> -->
+<!-- 	 <img src="https://img.shields.io/badge/-npm-CB3837?style=plastic&logo=npm&logoColor=CB3837"/> -->
 	   <img src="https://img.shields.io/badge/-WebGL-990000?style=plastic&logo=WebRTC&logoColor=white"/>
 </span>
 </div>
