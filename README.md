@@ -45,34 +45,25 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true&langs_count=6&hide_border=true"/>
  </span>
  </div>
- <div align="center">
+<!--  <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
-<div align="center">
+</div> -->
+<!-- <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</div>
+</div> -->
+
+
+<h1>My Tech Stack🧑🏻‍💻</h1>
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nuxt,wasm,go,rust"/>
+
+<!--<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/icon.png" /> -->
 
 
 
-<div align="center">
-	<h1>My Tech Stack🧑🏻‍💻</h1>
-	<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nuxt,wasm,go,rust"/>
-</div>
 
- 
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/icon.png" />
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-</div> 
+
 
 
 
