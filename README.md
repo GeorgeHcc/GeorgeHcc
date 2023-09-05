@@ -54,7 +54,7 @@
 
 
 <h1>My Tech Stack🧑🏻‍💻</h1>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,wasm,go,rust,cpp,react,vue,angular,nuxt,next,nest,webpack,vite,rollup,gulp,babel&perline=7"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,wasm,go,rust,cpp,react,vue,angular,nuxt,next,nest,webpack,vite,rollup,gulp,babel&perline=27"/>
 
 
 
