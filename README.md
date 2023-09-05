@@ -26,15 +26,7 @@
 	</a>
 	</li>
 </ul>
-<img src="https://visitor-badge.glitch.me/badge?page_id=GeorgeHcc&left_color=green&right_color=blue"/>
-<!-- - 🔭 I’m currently studying in CQUPT（Software Engineering）
-- 🌱 I’m currently learning Vue/React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
 
  
  ## 📊My Stats
