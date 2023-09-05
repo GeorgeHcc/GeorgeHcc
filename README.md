@@ -51,7 +51,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,wasm,go,rust,cpp,react,vue,angular,nuxt,next,nest,webpack,vite,rollup,gulp,babel&perline=27"/>
 
-
+<img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
 
 
 
