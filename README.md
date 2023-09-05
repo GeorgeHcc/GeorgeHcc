@@ -30,7 +30,7 @@
 
  
  
-<hr/>
+
 <div  align="center">
 <!--  your stats -->
  <span>
@@ -45,21 +45,16 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHcc&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_title=true&langs_count=6&hide_border=true"/>
  </span>
  </div>
-<!--  <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=GeorgeHcc&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div> -->
-<!-- <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</div> -->
 
 
-<hr/>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,wasm,go,rust,cpp,react,vue,angular,nuxt,next,nest,webpack,vite,rollup,gulp,babel&perline=27"/>
 
 
 
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
+
 
 
 
