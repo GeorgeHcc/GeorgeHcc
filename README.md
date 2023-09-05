@@ -29,8 +29,8 @@
 
 
  
- ## 📊My Stats
-
+ 
+<hr/>
 <div  align="center">
 <!--  your stats -->
  <span>
@@ -53,7 +53,7 @@
 </div> -->
 
 
-<h1>My Tech Stack🧑🏻‍💻</h1>
+<hr/>
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,wasm,go,rust,cpp,react,vue,angular,nuxt,next,nest,webpack,vite,rollup,gulp,babel&perline=27"/>
 
 
