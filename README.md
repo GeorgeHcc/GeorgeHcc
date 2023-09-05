@@ -54,10 +54,10 @@
 
 
 <h1>My Tech Stack🧑🏻‍💻</h1>
-<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nuxt,wasm,go,rust"/>
+<img src="https://skillicons.dev/icons?i=js,ts,node,wasm,go,rust,c++,java"/>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,nuxt,next,nest"/>
 
-<!--<img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/icon.png" /> -->
-
+<img src="https://skillicons.dev/icons?i="/>
 
 
 
