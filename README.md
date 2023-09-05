@@ -53,18 +53,14 @@
 </div>
 
 
-<div align="center" style="margin-top:50px">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeHcc" />
-</div>
-
 
 <div align="center">
 	<h1>My Tech Stack🧑🏻‍💻</h1>
-	<img src="https://skillicons.dev/icons?i=js,ts,go,vue,react,nuxt,wasm"/>
+	<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nuxt,wasm,go,rust"/>
 </div>
 
  
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+
 
 
 <img src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/icon.png" />
