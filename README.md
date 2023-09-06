@@ -49,7 +49,7 @@
 
 <h1></h1>
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,wasm,go,rust,cpp,react,vue,angular,nuxt,next,nest,webpack,vite,rollup,gulp,babel,swc&perline=18"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,wasm,go,rust,cpp,react,vue,angular,nuxt,next,nest,webpack,vite,rollup,gulp,babel,tensorflow,docker,k8s&perline=18"/>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
 
