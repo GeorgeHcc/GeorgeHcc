@@ -5,7 +5,7 @@
 </h1>
 
 
-<!--
+
 # 🙋‍♂️About me
 	
 
@@ -28,10 +28,10 @@
 	</li>
 </ul>
 
--->
+
  
  
-<!--
+
 <div  align="center">
 
  <span>
@@ -55,7 +55,6 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
 
 
-<!--
 
 
 
