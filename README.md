@@ -31,7 +31,7 @@
 
  
  
-
+<!--
 <div  align="center">
 
  <span>
@@ -50,10 +50,11 @@
 <!--
 <h1></h1>
 
+
+-->
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,wasm,go,rust,cpp,react,vue,angular,swift,kotlin,flutter,nuxt,next,nest,webpack,vite,rollup,gulp,redux,babel,tensorflow,docker,k8s,linux,python,java,github,nginx,redis,mongodb,graphql,mysql,tailwind,sass&perline=18"/>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/GeorgeHcc/GeorgeHcc/assets/images/hr.gif" />
-
 
 
 
